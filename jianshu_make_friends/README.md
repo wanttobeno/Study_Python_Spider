@@ -12,3 +12,8 @@ https://www.jianshu.com/p/7ba9c90ff12d
 
 注释掉了print，在window下某些字符串打印会报错'gbk' codec can't encode character XXXX。
 
+#### 颜值打分
+
+首先，进入百度人脸识别官网（http://ai.baidu.com/tech/face），点击立即使用，登陆百度账号（没有就注册一个）
+
+创建应用，完成后，点击管理应用，就能看到AppID等，这些在调用API时需要使用的。
